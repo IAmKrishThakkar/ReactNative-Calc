@@ -61,7 +61,7 @@ Follow these steps to get the project up and running on your local machine:
 _**Screenshots coming soon!**_  
 Add your screenshots in the `/assets/screenshots` folder, and reference them here. Example:  
 
-![Calculator UI](assets/screenshots/calculator-ui.jpg)
+![Calculator UI](calculator-ui.jpg)
 
 ## Technologies Used
 
