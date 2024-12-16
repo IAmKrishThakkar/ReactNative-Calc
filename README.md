@@ -81,9 +81,6 @@ Contributions are welcome! To get started:
 2. Create a feature branch.  
 3. Submit a pull request with a clear description of the changes.  
 
-### Issues
-Feel free to [open an issue](https://github.com/yourusername/ReactNativeCalc/issues) for feature requests, bugs, or general feedback.
-
 
 ---
 
