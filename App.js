@@ -149,7 +149,7 @@ const styles = StyleSheet.create({
   },
   displayText: {
     color: '#FFFFFF', // White text for the input
-    fontSize: 40,
+    fontSize: 45,
     textAlign: 'right',
     padding: 10,
     minWidth: 300,
@@ -164,7 +164,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#444444', // Lighter grey background for buttons
     borderRadius: 25,
     marginHorizontal: 3,
-    paddingVertical: 20,
+    paddingVertical: 25,
     justifyContent: 'center',
     alignItems: 'center',
     elevation: 5, // Added shadow for more depth
@@ -177,35 +177,23 @@ const styles = StyleSheet.create({
   // Add specific button styles for operators and special buttons
   operatorButton: {
     backgroundColor: '#293142', // Dark blue for operator buttons like +, -, *, /
-  },
-  operatorText: {
-    color: '#FFFFFF',
-    fontSize: 24,
-    fontWeight: 'bold',
+    borderColor: '#1a1a1a',
+    borderWidth: 1,
   },
   equalButton: {
     backgroundColor: '#3B8F24', // Green for the "=" button
-  },
-  equalText: {
-    color: '#FFFFFF',
-    fontSize: 24,
-    fontWeight: 'bold',
+    borderColor: '#1a1a1a',
+    borderWidth: 1,
   },
   clearButton: {
     backgroundColor: '#1A3B84', // Dark Blue for the "AC" clear button
-  },
-  clearText: {
-    color: '#FFFFFF',
-    fontSize: 24,
-    fontWeight: 'bold',
+    borderColor: '#1a1a1a',
+    borderWidth: 1,
   },
   numberButton: {
     backgroundColor: '#4B77D8', // Light Blue for number buttons
-  },
-  numberText: {
-    color: '#FFFFFF',
-    fontSize: 24,
-    fontWeight: 'bold',
+    borderColor: '#1a1a1a',
+    borderWidth: 1,
   },
 });
 
